@@ -2,6 +2,8 @@
 
 ![cover](docs/cover.svg)
 
+![build](https://img.shields.io/github/actions/workflow/status/kokkekpek/vendee-i12e/deploy.yaml)
+
 ## Server [ansible](https://www.ansible.com) initialization
 
 ```shell
